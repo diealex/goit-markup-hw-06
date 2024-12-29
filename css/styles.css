@@ -1053,10 +1053,7 @@ body {
     flex-wrap: wrap;
     justify-content: flex-start;
     gap: 0;
-  }
-
-  .footer-flex-container.container {
-    padding-left: 15px;
+    width: 1128px;
   }
 
   .footer-logo-flex {
@@ -1064,7 +1061,7 @@ body {
   }
 
   .social-links-container {
-    margin-right: 80px;
+    margin-right: auto;
   }
 
   .footer-form {
